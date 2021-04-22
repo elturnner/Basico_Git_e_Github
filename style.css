@@ -3,7 +3,12 @@
 }
 
 .desc{
-    text-align: center;
+    text-align: justify;
+    width: 997px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 .rounded{
